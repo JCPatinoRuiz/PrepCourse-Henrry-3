@@ -1,2 +1,1 @@
-# PrepCourse-Henrry-3
-Prueba 3 de creacion de repositorio en la nube
+Este proyecto es una pueba de como clonar un repositorio de la nube para trabajarlo de forma local
